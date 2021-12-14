@@ -16,7 +16,7 @@
 
 |                          Real Image                          |                         Sketch image                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![First Image](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214184557722.png) | ![Second Image](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214184626125.png) |
+| ![First Image](img/real_image.png) | ![Second Image](img/sektch_image.png) |
 
 
 
@@ -24,17 +24,15 @@
 
 ###### skip connection이 존재하는 Unet구조 사용
 
-![image-20211214184822705](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214184822705.png)
+![image-20211214184822705](img/Unet_image.png)
 
 ------
 
 #### validation 결과
 
-![image-20211214185357824](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214185357824.png) ![image-20211214185407447](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214185407447.png) ![image-20211214185444770](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214185444770.png)
+![image-20211214185357824](validation_imaeg.png) 
 
 #### Test 결과
 
-![image-20211214221616733](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214221616733.png)
-
-![image-20211214221627034](C:\Users\JungHeeSun\AppData\Roaming\Typora\typora-user-images\image-20211214221627034.png)
+![image-20211214221616733](test_image.png)
 
