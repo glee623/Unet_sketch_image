@@ -16,7 +16,7 @@
 
 |                          Real Image                          |                         Sketch image                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![First Image](img/real_image.png) | ![Second Image](img/sektch_image.png) |
+| ![First Image](img/real_image.png) | ![Second Image](img/sketch_image.png) |
 
 
 
@@ -30,7 +30,7 @@
 
 #### validation 결과
 
-![image-20211214185357824](validation_imaeg.png) 
+![image-20211214185357824](validation_image.png) 
 
 #### Test 결과
 
