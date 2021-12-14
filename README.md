@@ -30,9 +30,9 @@
 
 #### validation 결과
 
-![image-20211214185357824](validation_image.png) 
+![image-20211214185357824](img/validation_image.png) 
 
 #### Test 결과
 
-![image-20211214221616733](test_image.png)
+![image-20211214221616733](img/test_image.png)
 
