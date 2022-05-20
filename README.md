@@ -4,15 +4,15 @@
 
 
 
-#### **프로젝트 주제**
+### **프로젝트 주제**
 
-###### 실제 인물 사진을 이용하여 sketch이미지를 출력하는 모델
+##### 실제 인물 사진을 이용하여 sketch이미지를 출력하는 모델
 
 
 
-#### **Dataset** 
+### **Dataset** 
 
-###### CUHK Face Sketch Dataset(CUFS)
+##### CUHK Face Sketch Dataset(CUFS)
 
 |                          Real Image                          |                         Sketch image                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -20,19 +20,19 @@
 
 
 
-#### **Model**
+### **Model**
 
-###### skip connection이 존재하는 Unet구조 사용
+##### skip connection이 존재하는 Unet구조 사용
 
 ![image-20211214184822705](img/Unet_image.png)
 
 ------
 
-#### validation 결과
+### validation 결과
 
 ![image-20211214185357824](img/validation_image.png) 
 
-#### Test 결과
+### Test 결과
 
 ![image-20211214221616733](img/test_image.png)
 
