@@ -24,7 +24,7 @@
 
 ##### skip connection이 존재하는 Unet구조 사용
 
-![image-20211214184822705](img/Unet_image.png)
+<p align="center"><img src="img/Unet_image.png">
 
 ------
 
